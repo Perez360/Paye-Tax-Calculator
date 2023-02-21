@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nsano-base-templates-master/com-generis-ktor-by-generis.iml" filepath="$PROJECT_DIR$/nsano-base-templates-master/com-generis-ktor-by-generis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nsano-base-templates-master (1).iml" filepath="$PROJECT_DIR$/.idea/nsano-base-templates-master (1).iml" />
+    </modules>
+  </component>
+</project>
